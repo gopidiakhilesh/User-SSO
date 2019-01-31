@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>GoogleAuthenticationAPI</members>
+        <members>GoogleSearchAPI</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>SSOCredentails__c</members>
+        <members>UserDetails__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UserLandingPage</members>
+        <members>UserLoginPage</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>GoogleOAuth</members>
+        <members>UserDetailsResponse</members>
+        <members>UserSSOLoginCtrl</members>
+        <name>ApexClass</name>
+    </types>
+    <version>38.0</version>
+</Package>
